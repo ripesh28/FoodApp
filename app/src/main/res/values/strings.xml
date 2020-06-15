@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="name">Name</string>
+    <string name="donut_about">"Donuts are glazed and sprinkled with candy"</string>
+    <string name="iceCream_about">"Ice cream sandwiches have chocolate wafers and vanilla filling"</string>
+    <string name="froyo_about">"FroYo is premium self-serve frozen yogurt"</string>
+    <string name="todo">TODO</string>
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
+    <string name="froyo_order_message">You ordered a FroYo.</string>
+    <string name="food_app">Select Item</string>
+    <string name="hello_first_fragment">Hello</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="action_order_message">You selected Order.</string>
+    <string name="action_status_message">You selected Status.</string>
+    <string name="action_favorites_message">You selected Favorites.</string>
+    <string name="action_contact_message">You selected Contact.</string>
+    <string name="title_order_activity">Order Activity</string>
+</resources>
